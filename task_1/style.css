@@ -1,0 +1,29 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 2px solid black; 
+}
+
+.A {
+    background-color: green;
+}
+
+.B {
+    background-color: greenyellow;
+}
+
+.C {
+    background-color: yellow;
+}
+
+.D {
+    background-color: red;
+}
+
+.subject {
+    background-color: grey;
+    color: white;
+}
